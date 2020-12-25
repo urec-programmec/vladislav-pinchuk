@@ -134,7 +134,7 @@ int main() {
 			if (znachenie1 == -1)
 				cout << "Значения в массиве нет!\n";
 			else 
-				cout << "Значение в списке есть по индексу " << znachenie1 << "\n";
+				cout << "Значение в массиве есть по индексу " << znachenie1 << "\n";
 
 			cout_array(array1, dlina);					
 		}
@@ -152,7 +152,7 @@ int main() {
 			if (znachenie1 == -1)
 				cout << "Значения в массиве нет!\n";
 			else 
-				cout << "Значение в списке есть по индексу " << znachenie1 << "\n";
+				cout << "Значение в массиве есть по индексу " << znachenie1 << "\n";
 
 			cout_array(array1, dlina);			
 		}
